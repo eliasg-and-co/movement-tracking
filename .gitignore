@@ -1,0 +1,21 @@
+# Large files
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# YOLO models (re-downloadable)
+yolov8n-pose.pt
+
+# Generated data (regenerable)
+movement_data.json
+
+# Ableton
+*.als~
