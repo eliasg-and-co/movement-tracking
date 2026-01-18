@@ -2,6 +2,8 @@
 
 Transform choreography into music. Every gesture controls a sound parameter.
 
+**"Movement as art"**
+
 **"Music that requires you were there."**
 
 ## Current Version: V1 (Proof of Concept)
@@ -18,8 +20,9 @@ Working system for dance and performance tracking. See `versions/v1_proof_of_con
 
 - **V1 (Jan 2026):** Proof of concept, 6 parameters, full-body averaging
 - **V2 (In Progress):** Individual limb tracking, 14 parameters, confidence scoring
-- **V3 (Planned):** Object tracking for sports/cooking
-
+- **V3 (Planned):** Object tracking for basically anything else
+- **V4 (Planned):** Movement tracking in camera for live installations/collaborations
+  
 See `CHANGELOG.md` for detailed version history.
 
 ## Contact
